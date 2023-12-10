@@ -15,7 +15,7 @@ document.querySelector(".check").addEventListener("click", function () {
 
   //  When there is no answer.
   if (!guess) {
-    document.querySelector(".message").textContent = " ⛔️ Wrong Number!";
+    document.querySelector(".message").textContent = " 🤬Wrong Number!";
 
     // When Player Wins.
   } else if (guess === ranNum) {
