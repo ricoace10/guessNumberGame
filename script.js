@@ -39,7 +39,7 @@ document.querySelector(".check").addEventListener("click", function () {
       score--;
       document.querySelector(".score").textContent = score;
     } else {
-      document.querySelector(".message").textContent = " 💥You Lost The Game";
+      document.querySelector(".message").textContent = " ☹️You Lost The Game";
       document.querySelector(".score").textContent = 0;
     }
 
@@ -50,7 +50,7 @@ document.querySelector(".check").addEventListener("click", function () {
       score--;
       document.querySelector(".score").textContent = score;
     } else {
-      document.querySelector(".message").textContent = " 💥You Lost The Game";
+      document.querySelector(".message").textContent = " ☹️You Lost The Game";
       document.querySelector(".score").textContent = 0;
     }
   }
