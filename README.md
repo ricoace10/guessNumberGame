@@ -11,8 +11,10 @@ If you exceed your number of chances which is 20 then you automatically loose th
 
 TIPS..
 
-* Use the text which is shown on the screen ( 'Wrong Number', 'too high',  'Too Low ) each time you click on check as a guide to guess the right number. *
+- Use the text which is shown on the screen ( 'Wrong Number', 'too high', 'Too Low ) each time you click on check as a guide to guess the right number. \*
 
 If you guess the right number, the screen changes its color to green and you get the text 'correct number' and you only get a new high score if it is more than the previous one.
 
 ENJOY!!
+
+https://github.com/ricoace10/guessNumberGame.git
