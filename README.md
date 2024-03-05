@@ -17,4 +17,5 @@ If you guess the right number, the screen changes its color to green and you get
 
 ENJOY!!
 
-https://github.com/ricoace10/guessNumberGame.git
+[
+](https://main--guesthenumbergame.netlify.app/)https://main--guesthenumbergame.netlify.app/ 
